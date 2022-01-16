@@ -5,26 +5,32 @@ date:   2021-05-04 12:58:51 -0500
 categories: jekyll update
 author: Author Name
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+* Eğer bir yol bir insandan insana verilecekse bu ancak tek test edilmemiş bir yoldur. Tüm yapabileceğimiz budur.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* İnsan ruhunun en güzel göstergesi in insan yüzü olduğunu düşünürler. Derler ki güzellik insan yüzünden anlaşılırmış. Aynı anlatıya özellikle Osmanlı'da siret ilmi olarak olarak rastlıyoruz. Suret "gözün ilk bakışta gördüğü şey, dış görünüş, şekil, biçim" anlamına geliyor. Siret ise kişinin dışa akseden davranışına istinaden kullanılmış. Bunun günümüz anlamıyla bilim olmaktan ziyade bir sahte bilim olduğunu söylemek gerekir. Ama bu bir ihtiyaçtan ve haz ile karışık bir ruhsal iradeden ileri gelmektedir. İhtiyacın bu ruhsal hazla birleşimi insana olan aslında vücuda olan bir odaklanmanın yolunu açar. İnsan güzelliğine yönelik bir haykırışı meydana getirir. Fakat burada insan vücudunun aslında fonksiyonel olarak alınması daha doğru değil mi? Örneğin bir kol nasıl cinsellik çağrıştırır?
 
-Jekyll also offers powerful support for code snippets:
+* Burada insan nedirden ziyade nasıl algılanıra cevap olarak erdem ya da kusur yansıttığını görüyoruz. Tıpkı Yunanlıların düşündüğü gibi. Bu şekilde düşünmeye bu şekilde tasvir etmeye kesinlikle bir vurgu var. İnsana psikolojik bir arkaplanı da olduğunu da düşündürtüyor.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* Hayatımızı belirleyen ekonomik gereklilikler ve kimi zaman sınırlamalar konusunda takınacağımız tavır oldukça önemlidir. Burada bir drama bir psikolojik oyun bir numara var. Her ne kadar eksikliklerimiz olsa da bunlar bizi kamçılamalı. Modern dünyada özellikle de belirli bir eğitim seviyesinden sonra insan özgürlüğü elde edebiliyor. Ekonomik özgürlük elde edildikten sonra kırılması gereken ikinci döngü de aslında maaş döngüsü. Maaşlı insanları hatalı görmemek gerekir. Ama insan elindeki alternatifleri değerlendirme. Burada takındığımız tavır başkalarına ve kendimize sıkıntı vermemek olmalı. Pek tabi altyapı üstyapıyı belirliyor. Ama bunu sıkıntılı bir hastalık haline dönüştürmek oradan da rahatlatıcı dogmatik bir söylem kurgulamak iyi olmaz.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Komedi aslında garip bir şey. Çünkü karşıdır düzene ama bunu söylemek hak mıdır bir gaz boşalması gibidir. Tatsızlığı vardır. Ama joker işte budur.
+* İki insanın karşı karşıya gelmesi bana hep iki krallığın karşı karşıya gelmesi gibi gelmiştir.
+* İnsanoğlu hep amalarla varolur. Güç de böyle birşeydir amalıdır.
+* Sen bana bir şey söylemezsin sen söylesen de ben anlamam çabanı boşa çıkartırım. Yozluk böyle bir şey. 
+* Sanatsal sert kuvvet, izleyici isteği, kreativite, zeka. Genelde bir uyşmazların birleşmesi entegrasyon vardır.
+* Savaş. En iyilerin korkusu. 
+* Viktor Frankl
+* B.F. Skinner
+* Thomas Mann Büyülü Dağ
+* Thomas Mann Dr. Faustus
+* Melankolik bir hödük olmamak. Ağırlık altında ezilmemek çağın.
+* Bugün modern dünyada bahşedilmiş özgürlüklerin dünyasında yaşıyoruz. Sartre'ın bahsettiği gibi korkutucu derecede özgürüz. Fakat bu bahşedilmiş özgürlük, özgürlüğün gerçek hali mi? Bir çeşit yanılsama ve sentetik bir özgürlük hissi. Acaba daha zor bir yoldan geçerek ulaşılabilecek gerçek bir özgürlük var mı? İnsan kendini hapseden bu kutudan çıkabilir mi? Kendinden başlayarak çevresindeki topluluğu ve ardından tüm dünyayı değiştirebilir mi? Aslında böyle bir potansiyel her birimizde mevcut. En azından akışa bir şekilde müdahale etmek mümkün. Fazla iyimser olmadan belki de en azından bunu prensip olarak kabul etmek gerekiyor.
+* İnsanoğlunun en yetkin olduğu nokta bilincidir.
+* Hangi noktada geriyiz cetvel ne söylüyor. 4000 tane nokta tespit edilmiş.
+* Kaderine tapar delikankı ve Acısına
+* Pek çok düşünürün aforizmalara yönelmesine şaşmamalı. Kimi zaman şiirsel kısa sembolik bir anlatım pek çok şeyi özetleyebilir. 
+* İnsonoğlu netlik sever. Hayata dair en sarsıcı gerçeklerin ifadesi uçuk ve son derece cümlelerden geçer.
+* Morgan Scott Peck was an American psychiatrist and best-selling author who wrote the book The Road Less Traveled, published in 1978.https://en.wikipedia.org/wiki/M._Scott_Peck
+* Muzzam bir güce erişebiliyor. Bu nedenle ben kendi adıma şiirsel anlatımları önemsiyorum. Bu bedenle bu bölümde kısa kısa düşüncelerimi 
