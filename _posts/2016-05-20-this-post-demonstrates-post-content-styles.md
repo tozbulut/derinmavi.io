@@ -10,7 +10,16 @@ meta: "Springfield"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-## Some great heading (h2)
+### 1. Birisi kültürden bahsedecek olursa silahımın emniyetini açarım.
+
+2. Dünya savaşı öncesi dönemin Nazi parti liderlerine sık sık atfedilen bu söz aslında alman şair ve oyun yazarı Hanns Johst'e ait.
+Söz Alman yazarın oyunu Schlageter'de geçiyor. Sözün orjinalinde silahın ismi veriliyor. İngilizcesi aşağıdaki gibi:
+
+
+When I hear the word culture ..., I release the safety on my Browning!"
+
+
+
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
