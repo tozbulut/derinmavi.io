@@ -4,8 +4,6 @@ title: "Kitap Listesi"
 categories: misc
 ---
 
-### Kitap
-
 *	Dorian Gray’in Portresi – Oscar Wilde 
 *	Kesinlikle bir düşünce jimnastiği. İlginç karakterleri görsellikle algılayabileceğimizden çok daha derin biçimde anlama fırsatı.
 *	Anti-Oedipus
@@ -17,7 +15,6 @@ categories: misc
 *	Homo Deus
 *	21 Rules For Life
 *	Reader At Work
-
 
 ### Film Listesi
 *	Us
