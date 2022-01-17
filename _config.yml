@@ -26,8 +26,8 @@ bootstrap:
 
   # generate social links in footer
   social_links:
-    twitter: 'https://twitter.com/jonaharagon'
-    github:  'https://github.com/jonaharagon'
+    twitter: 'https://twitter.com/jekyllrb'
+    github:  'https://github.com/jekyllrb'
     #facebook: 'https://example.com/@jekyllrb'
     #instagram: 'https://example.com/@jekyllrb'
     #linkedin: 'https://example.com/@jekyllrb'
