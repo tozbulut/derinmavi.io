@@ -31,7 +31,7 @@ layout: default
           </a>
         </h3>
         {%- if site.excerpts.show -%}
-          {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
+          {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}
