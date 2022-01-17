@@ -1,5 +1,3 @@
-
-
 * Eğer bir yol bir insandan insana verilecekse bu ancak tek test edilmemiş bir yoldur. Tüm yapabileceğimiz budur.
 
 * İnsan ruhunun en güzel göstergesi in insan yüzü olduğunu düşünürler. Derler ki güzellik insan yüzünden anlaşılırmış. Aynı anlatıya özellikle Osmanlı'da siret ilmi olarak olarak rastlıyoruz. Suret "gözün ilk bakışta gördüğü şey, dış görünüş, şekil, biçim" anlamına geliyor. Siret ise kişinin dışa akseden davranışına istinaden kullanılmış. Bunun günümüz anlamıyla bilim olmaktan ziyade bir sahte bilim olduğunu söylemek gerekir. Ama bu bir ihtiyaçtan ve haz ile karışık bir ruhsal iradeden ileri gelmektedir. İhtiyacın bu ruhsal hazla birleşimi insana olan aslında vücuda olan bir odaklanmanın yolunu açar. İnsan güzelliğine yönelik bir haykırışı meydana getirir. Fakat burada insan vücudunun aslında fonksiyonel olarak alınması daha doğru değil mi? Örneğin bir kol nasıl cinsellik çağrıştırır?
@@ -14,10 +12,6 @@
 * Sen bana bir şey söylemezsin sen söylesen de ben anlamam çabanı boşa çıkartırım. Yozluk böyle bir şey. 
 * Sanatsal sert kuvvet, izleyici isteği, kreativite, zeka. Genelde bir uyşmazların birleşmesi entegrasyon vardır.
 * Savaş. En iyilerin korkusu. 
-* Viktor Frankl
-* B.F. Skinner
-* Thomas Mann Büyülü Dağ
-* Thomas Mann Dr. Faustus
 * Melankolik bir hödük olmamak. Ağırlık altında ezilmemek çağın.
 * Bugün modern dünyada bahşedilmiş özgürlüklerin dünyasında yaşıyoruz. Sartre'ın bahsettiği gibi korkutucu derecede özgürüz. Fakat bu bahşedilmiş özgürlük, özgürlüğün gerçek hali mi? Bir çeşit yanılsama ve sentetik bir özgürlük hissi. Acaba daha zor bir yoldan geçerek ulaşılabilecek gerçek bir özgürlük var mı? İnsan kendini hapseden bu kutudan çıkabilir mi? Kendinden başlayarak çevresindeki topluluğu ve ardından tüm dünyayı değiştirebilir mi? Aslında böyle bir potansiyel her birimizde mevcut. En azından akışa bir şekilde müdahale etmek mümkün. Fazla iyimser olmadan belki de en azından bunu prensip olarak kabul etmek gerekiyor.
 * İnsanoğlunun en yetkin olduğu nokta bilincidir.
