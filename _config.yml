@@ -12,8 +12,7 @@ excerpts:
   # You can also leave this false, and manually control excerpt length:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   auto_truncate: true
-
-excerpt_separator: <!--more-->
+  excerpt_separator: <!--more-->
 
 # Theme configuration
 bootstrap:
