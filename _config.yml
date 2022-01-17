@@ -13,6 +13,8 @@ excerpts:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   auto_truncate: true
 
+excerpt_separator: <!--more-->
+
 # Theme configuration
 bootstrap:
   # Theme date format
