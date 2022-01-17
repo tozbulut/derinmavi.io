@@ -1,9 +1,15 @@
+## Novel, Biography
 
-Viktor Frankl
+1) Viktor Frankl - İnsanın Anlam Arayışı
+2) Thomas Mann - Büyülü Dağ
+3) Thomas Mann - Dr. Faustus
 
-B.F. Skinner
+## Psychology
 
-Thomas Mann Büyülü Dağ
+1) B.F. Skinner
+2) Freud
 
-Thomas Mann Dr. Faustus
 
+## Philosophy
+
+1) Epictetus
