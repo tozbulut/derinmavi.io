@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Still Alive"
+categories: misc
+---
+
 2007 yapımı video oyunu Portal bittiğinde karşınıza [Still Alive](https://www.youtube.com/watch?v=36reZ9-3VK0) çıkıyor. 
 Oyun severleri arasında büyük beğeniyle karşılanan ve bir marşa dönüşen Still Alive hayat, ölüm, teknoloji, bilim, insanlık gibi bir çok tema barındırıyor. Yapay zeka GladOS’un oyunun ana karakteri Chell’e yazdığı bir "Test Değerlendirme Raporu" olarak kurgulanmış. Bu bir yandan filmlerde sıklıkla gördüğümüz kötü karakterin son kez kendini gösterirken  bir yandan olağanüstü derinlik barındırıyor.
 
