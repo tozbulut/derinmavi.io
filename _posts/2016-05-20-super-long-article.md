@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "Yaşamla Ölüm Arasında Rüya Görmek"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Lady Gaga'nın 911 isimli klibi ilk bakışta anlaması zor olsa da ilgi çekici bir derinlik barındırıyor. Klip ile ilgili yapılan yorumlarda Lady Gaga'nın yavaş yavaş en genç kitleye hitap etmekten uzaklaşsa da sanatsal anlamda derinlikli eserler ürettiğinden bahsedilmiş. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<img src="https://derinmavi.io/images/lady-gaga-911.jpg" alt="Lady Gaga 911" class="img-fluid">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<!--more-->
+
+Klipte The Cell, The Fall ve Immortals filmlerinin yönetmeni Tarsem Singh ile çalışılmış. Bu yönetmenin filmlerinde özellikle rüyalar üzerine bir yoğunlaşma var. 911'da benzer bir hikaye anlatıyor. Tarsem Singh'i biraz daha takip ettiğimde bugüne kadar yönetmenine dikkat etmeden seyrettiğim pek çok klip ve diziyi yönettiğini farkettim.
+
+Bunların arasında Singh'in yönettiği 2000 yapımı "The Cell" filmi oldukça ilginç. Henüz çocukken seyrettiğim bu film bana ürkütücü olmasının yanında son derece de ilgi çekici gelmişti. Bir seri katilin zihnine yapılan yolculuğu konu alan filmde yine rüyalar konu ediliyor. İronik biçimde hastalıklı kişi kendi dünyası olan zihninin içinde bir çarpık bir krallığı yöneten monark olarak tasvir ediliyor. Ama zihninin içerisinde tek değil burada kendi çocukluğu odalarda korka korka geziniyor. Seri katil olan kendi var. Bir de güçlü baskın monark hali var. Sahnelerin her biri olayların işleyişi tıpkı 911 klibindeki gibi rüyalara özgü özellikleri barındırıyor. Filmin uzun süre etkisinde kaldığımı söylemeliyim. Atmosferi bugün bile ilgi uyandırıyor.
+
+
+<img src="https://derinmavi.io/images/cell1.jpg" alt="The Cell" class="img-fluid mx-auto d-block" style="width: 300px;">
+
+Tarsem Singh'in 2011 yılında çektiği Immortals da yine sahne, görsellik ve kostümler açısından son derece güzel. Bu onu izlenmeye değer yapıyor fakat The Cell'in ağırlığını onda bulmak mümkün değil.
