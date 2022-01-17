@@ -4,7 +4,7 @@ title: "Yaşamla Ölüm Arasında Rüya Görmek"
 categories: misc
 ---
 
-Lady Gaga'nın 911 isimli klibi ilk bakışta anlaması zor olsa da ilgi çekici bir derinlik barındırıyor. Klip ile ilgili yapılan yorumlarda Lady Gaga'nın yavaş yavaş en genç kitleye hitap etmekten uzaklaşsa da sanatsal anlamda derinlikli eserler ürettiğinden bahsedilmiş. 
+Lady Gaga'nın 911 adındaki klibi ilk bakışta anlaması zor olsa da ilgi çekici bir derinlik barındırıyor. Klip ile ilgili yapılan yorumlarda Lady Gaga'nın yavaş yavaş en genç kitleye hitap etmekten uzaklaşsa da sanatsal anlamda derinlikli eserler ürettiğinden bahsedilmiş. 
 
 <img src="https://derinmavi.io/images/lady-gaga-911.jpg" alt="Lady Gaga 911" class="img-fluid">
 
