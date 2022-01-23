@@ -23,19 +23,21 @@ layout: default
     <ul class="post-list list-unstyled">
       {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li class="mb-5 p-4">
-         <span class="post-meta text-muted">{{ post.date | date: date_format }}</span>
+    <li class="mb-5 p-4">
+        <span class="post-meta text-muted">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link text-decoration-none" href="{{ post.url | relative_url }}">
+          <a class="post-link text-decoration-none" href="{{ post.url | relative_url }}" style="color: black;">
             {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.excerpts.show -%}
-          {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
+          {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
+  
+  
 
     {% if site.paginate %}
       <div class="pager">
