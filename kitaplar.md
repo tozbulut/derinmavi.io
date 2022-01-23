@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kitaplar ve Yazarları
+title: Kitaplar
 permalink: /kitaplar/
 ---
 
