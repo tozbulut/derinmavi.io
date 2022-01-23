@@ -12,7 +12,7 @@ meta: "Springfield"
     </blockquote>
   </div>
 
-Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Bu sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebileceğimize inanıyorum. 
+Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Bu sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebiliriz sanıyorum. 
 
 <!--more-->
 
