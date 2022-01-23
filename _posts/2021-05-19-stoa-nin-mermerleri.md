@@ -6,14 +6,7 @@ meta: "Springfield"
 img https://derinmavi.io/images/path-to-ancient-thira-santorini.png
 ---
 
-  <div>
-    <blockquote class="blockquote mb-3" style="font-size: 13px;">
-      <p>Kendinin efendisi olmayan kişi özgür değildir.</p>
-      <footer class="blockquote-footer">Epiktetos, <cite title="Source Title">Enchiridion</cite></footer>
-    </blockquote>
-  </div>
-
-Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Bu sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebiliriz sanıyorum. 
+"Kendinin efendisi olmayan kişi özgür değildir." sözü Epiktetos'un Enchiridion adlı eserinde geçiyor. Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Bu sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebiliriz sanıyorum. 
 
 <img src="https://derinmavi.io/images/path-to-ancient-thira-santorini.png" alt="Greek Bust" class="img-fluid">
 
