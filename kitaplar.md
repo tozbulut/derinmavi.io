@@ -16,6 +16,7 @@ permalink: /kitaplar/
 8) Gustave Flaubert
 9) James Joyse
 10) Marcel Proust
+11) Thomas Mann - Death in Venice (1912).
 
 #### Psychology
 
