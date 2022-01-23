@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Stoa'nın Mermerleri"
+categories: junk
+meta: "Springfield"
+---
 
   <div>
     <blockquote class="blockquote mb-3" style="font-size: 13px;">
