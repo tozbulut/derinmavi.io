@@ -33,6 +33,9 @@ layout: default
         {%- if site.excerpts.show -%}
           {{ post.excerpt }}
         {%- endif -%}
+       {%- if post.img -%}
+      <img src="{{ post.img }}" alt=" {{ post.title | escape }}" class="img-fluid">
+      {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
