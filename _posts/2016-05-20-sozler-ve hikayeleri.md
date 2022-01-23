@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aforizmalar ve Hikayeleri"
+title: "Sözler ve Hikayeleri"
 categories: junk
 meta: "Springfield"
 ---
