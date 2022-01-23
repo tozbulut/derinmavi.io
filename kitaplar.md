@@ -14,9 +14,10 @@ permalink: /kitaplar/
 6) Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar
 7) Charles Baudelaire
 8) Gustave Flaubert
-9) James Joyse
+9) James Joyce
 10) Marcel Proust
-11) Thomas Mann - Death in Venice (1912).
+11) Thomas Mann - Death in Venice (1912)
+12) Yahya Kemal Beyatlı
 
 #### Psychology
 
