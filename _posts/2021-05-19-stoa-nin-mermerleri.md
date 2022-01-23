@@ -3,6 +3,7 @@ layout: post
 title: "Stoa'nın Mermerleri"
 categories: junk
 meta: "Springfield"
+img https://derinmavi.io/images/path-to-ancient-thira-santorini.png
 ---
 
   <div>
@@ -16,7 +17,7 @@ Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiğ
 
 <!--more-->
 
-<img src="https://derinmavi.io/images/roman123.jpg" alt="Greek Bust" class="img-fluid">
+<img src="https://derinmavi.io/images/path-to-ancient-thira-santorini.png" alt="Greek Bust" class="img-fluid">
 
 Stoacılığın kökeni milattan önce 333 ve 262 yılları arasında yaşamış Zeno'ya dayandırılır. Kıbrıs doğumlu bu felsefeci Atina'nın memer sutunlarla kaplı Stoa'sında halka açık ve parasız dersler veriyordu. Bu derslerin yankısı ölümünden sonra da sürdü. Hatta çağlar boyu tekrar tekrar dirildi. Bugün de bir bakıma aslında hala devam etmektedir. Stoa'ya adını veren mekanın günümüze ulaşmış bir örneğine ulaşmaya çalıştığımızda karşımıza Stoa Of Attados çıkabilir. Uzunluğu 115 genişliği ise 20 metrelik bu mekanda 134 tane Doric stilde mermer kolon bulunmakta. Doğa ile kontrast oluşturacak şekilde düz sade kurtarılmış bu mekan aslında insan medeniyetinin refahının düzeninin bir sembolü olarak görülebilir. Mermer bir sütun tıpkı ona benzeyen zevke, kedere veya neşeye kayıtsız, duygularını bastıran sert bir ruha sahip olmak anlamına gelir. Stoacılıkta doğa gözlemleyerek kendini kosmosun ahengine uydurmak amaçlanır.
 
