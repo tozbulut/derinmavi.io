@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stoa'nın Mermerleri"
+title: "Stoa Düşüncesi"
 categories: junk
 meta: "Springfield"
 img: https://derinmavi.io/images/path-to-ancient-thira-santorini.png
