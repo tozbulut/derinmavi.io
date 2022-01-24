@@ -31,7 +31,7 @@ layout: default
           </a>
         </h3>
         {%- if site.excerpts.show -%}
-          {{ post.excerpt }}
+      <p style="text-align: justify;">{{ post.excerpt }}</p>
         {%- endif -%}
        {%- if post.img -%}
       <img src="{{ post.img }}" alt=" {{ post.title | escape }}" class="img-fluid">
