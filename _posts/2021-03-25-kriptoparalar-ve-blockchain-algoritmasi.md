@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Kriptoparalar ve Blockchain Algoritması"
+categories: misc
+img: https://derinmavi.io/images/bitcoin23.jpg
+---
 
 Söz konusu kriptoparalar olunca konu hakkında kopan gürültü çok olsa da konu ile ilgili detaylı bilgiye sahip olanların sayısı oldukça az. Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de dünyaya yön veren bu yeni teknolojinin temellerini bilmek kafadaki pek çok karışıklığı giderecektir diye düşünüyorum. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
 
