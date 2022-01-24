@@ -1,6 +1,13 @@
+---
+layout: post
+title: "Sahi Ne Söylemişti Zerdüşt?"
+categories: misc
+img: https://derinmavi.io/images/900_Nietzsche.jpg
+---
+
 Felsefe tarihindeki etkili figürlerden biri Friedrich Nietzche. Bu sofistike düşünür dünyanın neyden yapılmış olduğu ya da nasıl işlediği gibi bilimsel soruları değil insanın dünyada kendini nereye yerleştireceği, nasıl hareket etmesi gerektiği gibi daha bireysel konuları ele alıyor. Nietzche bunu yaparken tavır cesaret verici bir tavır takınıyor. Kendisine yakıştırılan kasvetin aksine bu *şen bilim*in aslında çok eğlenceli ve gerçekten mutluluk verici bir tarafı var.
 
-<img src="https://derinmavi.io/images/nietzsche-color2.jpg" alt="Nietzche In Color" class="img-fluid">
+<img src="https://derinmavi.io/images/900_Nietzsche.jpg" alt="Nietzche In Color" class="img-fluid">
 - Nietzsche by Fabrizio Cassetta
 
 <!--more-->
