@@ -23,7 +23,7 @@ layout: default
     <ul class="post-list list-unstyled">
       {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-    <li class="mb-5">
+    <li class="mb-5" style="text-align: justify;">
         <span class="post-meta text-muted">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link text-decoration-none" href="{{ post.url | relative_url }}" style="color: black;">
@@ -31,7 +31,7 @@ layout: default
           </a>
         </h3>
         {%- if site.excerpts.show -%}
-      <p style="text-align: justify;">{{ post.excerpt }}</p>
+      <p>{{ post.excerpt }}</p>
         {%- endif -%}
        {%- if post.img -%}
       <img src="{{ post.img }}" alt=" {{ post.title | escape }}" class="img-fluid">
