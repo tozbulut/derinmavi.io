@@ -1,4 +1,10 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
+
+group :jekyll_plugins do
+  gem "jekyll-bookshop", "2.2.2"
+  gem "cloudcannon-jekyll-bookshop", "2.2.2"
+  gem 'jekyll-watch', :git => "https://github.com/CloudCannon/jekyll-watch"
+  gem 'jekyll-tagging'
+  gem "jekyll-sitemap"
+  gem "jekyll-pagebreak", "~> 0.3"
+end
