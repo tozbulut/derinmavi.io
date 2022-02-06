@@ -1,83 +1,34 @@
 ---
 layout: default
 ---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="post-top">
-  <div class="container">
-    <div class="row">
+  <header class="post-header py-3">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta text-muted">
+      {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
 
-      {%if page.image %}
-      <div class="col col-6 col-d-12">
-        <div class="post-image">
-          <img loading="lazy" src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-        </div>
-      </div>
-      {%endif %}
-
-      <div class="col col-6 col-d-12">
-        <div class="post__info">
-
-          {% if page.tags.size >= 1 %}
-          <div class="post-tags">
-            {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase }}" class="post-tags__tag">{{ tag }}</a>
-            {% endfor %}
-          </div>
-          {% endif %}
-
-
-          <h1 class="post__title">{{ page.title | escape }}</h1>
-
-          <div class="post__meta">
-            <div class="post__author-image">
-              <img loading="lazy" src="{{ site.data.author.author_image }}" alt="{{ site.data.author.author_name }}">
-            </div>
-
-            <div class="post__meta-bottom">
-              <div class="post__author">{{ site.data.author.author_name }}</div>
-              <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string
-                }}</time>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
   </div>
-</div>
 
-<!-- begin post -->
-<div class="container animate">
-
-  <article class="post">
-
-    <div class="post__content">
-      {{ content }}
-    </div>
-
-    {% include share.html %}
-
-  </article>
-</div>
-<!-- end post -->
-
-<div class="container">
-  <div class="row">
-    <div class="col col-10 col-d-12 push-d-0 push-1">
-      {% include post-navigation.html %}
-    </div>
-  </div>
-</div>
-
-{% include related-posts.html %}
-
-{% if site.data.general_settings.disqus-identifier %}
-  {% include disqus-comments.html %}
-{% endif %}
-
-{% bookshop
-  newsletter newsletter_title=site.data.newsletter.newsletter_title
-  newsletter_description=site.data.newsletter.newsletter_description
-  newsletter_identifier=site.data.newsletter.newsletter_identifier
-  newsletter_button=site.data.newsletter.newsletter_button
-%}
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

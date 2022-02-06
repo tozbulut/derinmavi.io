@@ -1,34 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include head.html %}
+  {%- include head.html -%}
 
-<body>
+  <body>
 
-    {% if site.data.general_settings.google-analytics %}
-        {% include google-analytics.html %}
-    {% endif %}
+    {%- include header.html -%}
 
-    {% include header.html %}
+    <main class="page-content py-5 flex-shrink-0" aria-label="Content">
+      <div class="container" style="max-width: 1080px;">
+        
+         <div class="row">
+    <div class="col-sm-8">{{ content }}</div>
+    <div class="col-sm-4">col-sm-4</div>
+   </div>
+        
+      
+      </div>
+    </main>
 
-    {{ content }}
+    {%- include footer.html -%}
 
-    <!-- 
-        Bookshop components are accessed using the bookshop tag, 
-        using the same syntax as the standard Jekyll include tag.
-    -->
-    {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
+    <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+  </body>
 
-    <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
-
-    {% include footer.html %}
-
-    <!--
-        load the live component for CloudCannon live previews.
-    -->
-    {% bookshop_live _cloudcannon/bookshop-live.js %}
-
-    <script src="/js/scripts.js"></script>
-    <script src="/js/common.js"></script>
-</body>
 </html>
