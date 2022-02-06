@@ -2,7 +2,6 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="container py-3">
     <div class="row">
-<<<<<<< HEAD
       <div class="col">
         {%- if site.author %}
         <ul class="contact-list list-unstyled">
@@ -12,16 +11,6 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
-=======
-      <div class="col col-12">
-
-        <ul class="footer_nav list-reset">
-          {% for item in site.data.footer.footer_menu__settings.menu__items %}
-          <li class="footer_nav__item">
-            <a href="{{ item.url | relative_url }}" class="footer_nav__link">{{ item.title }}</a>
-          </li>
-          {% endfor %}
->>>>>>> 68fbfe70aa556b95a01b60422e8bfc2bd393f6b7
         </ul>
         {%- endif %}
         <p class="feed-subscribe">
@@ -44,7 +33,3 @@
     {%- endif -%}
   </div>
 </footer>
-<<<<<<< HEAD
-=======
-<!-- end footer -->
->>>>>>> 68fbfe70aa556b95a01b60422e8bfc2bd393f6b7

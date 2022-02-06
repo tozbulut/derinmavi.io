@@ -29,39 +29,6 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-<<<<<<< HEAD
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-=======
-</div>
-
-<!-- begin post -->
-<div class="container animate">
-
-  <article class="post">
-
-    <div class="post__content">
-      {{ content }}
-    </div>
-
-    {% include share.html %}
-
-  </article>
-</div>
-<!-- end post -->
-
-<div class="container">
-  <div class="row">
-    <div class="col col-10 col-d-12 push-d-0 push-1">
-      {% include post-navigation.html %}
-    </div>
-  </div>
-</div>
-
-{% include related-posts.html %}
-
-{% if site.data.general_settings.disqus-identifier %}
-  {% include disqus-comments.html %}
-{% endif %}
->>>>>>> 68fbfe70aa556b95a01b60422e8bfc2bd393f6b7
