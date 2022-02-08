@@ -23,12 +23,12 @@ layout: default2
       {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
     <div>
-        <div class="card" style="width: 23.75rem;">
+        <div class="card" style="width: 23.75rem; margin-right: 0.64rem;">
   {%- if post.img -%}<img src="{{ post.img }}" class="card-img-top" alt="{{ post.title | escape }}"> {%- endif -%}
   <div class="card-body">
     <h5 class="card-title">{{ post.title | escape }}</h5>
     {%- if site.excerpts.show -%}<p class="card-text">{{ post.excerpt }} - {{ post.date | date: date_format }}</p>{%- endif -%}
-    <a href="{{ post.url | relative_url }}" class="btn btn-primary">Go somewhere</a>
+    <a href="{{ post.url | relative_url }}" class="btn btn-primary">Devamını Oku...</a>
   </div>
       </div>
     </div>
