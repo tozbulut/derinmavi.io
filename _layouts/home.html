@@ -27,7 +27,7 @@ layout: default
   <div>
       {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-
+    <div class="col">
     <div class="card" style="width: 18rem;">
   {%- if post.img -%}<img src="{{ post.img }}" class="card-img-top" alt="{{ post.title | escape }}"> {%- endif -%}
   <div class="card-body">
@@ -36,7 +36,7 @@ layout: default
     <a href="{{ post.url | relative_url }}" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
-    
+    </div>
       {%- endfor -%}
     </div>
   
