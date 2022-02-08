@@ -8,14 +8,13 @@
     {%- include header.html -%}
 
     <main class="page-content py-5 flex-shrink-0" aria-label="Content">
+    
       <div class="container" style="max-width: 1200px;">
-        
-         <div class="row">
-    <div class="col" style=" padding: 0px; ">{{ content }}</div>
-   </div>
-        
-      
-      </div>
+        <div class="col-md-8 offset-md-2">
+          {{ content }}
+          </div>
+        </div>
+    
     </main>
 
     {%- include footer.html -%}
