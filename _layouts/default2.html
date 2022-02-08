@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "tr" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content py-5 flex-shrink-0" aria-label="Content">
+      <div class="container" style="max-width: 1080px;">
+        
+         <div class="row">
+    <div class="col-sm-8">{{ content }}</div>
+    <div class="col-sm-4">col-sm-4</div>
+   </div>
+        
+      
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+  </body>
+
+</html>
