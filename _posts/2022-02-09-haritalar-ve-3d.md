@@ -3,9 +3,8 @@ layout: post
 title: "Haritalar ve 3 Boyut"
 categories: misc
 img: https://derinmavi.io/images/harita1.jpg
+img2: https://derinmavi.io/images/harita3.jpg
 ---
-
-<img src="https://derinmavi.io/images/harita3.jpg" alt="" class="img-fluid">
 
 
 Bir süre önce internette bir (reddit)[https://www.reddit.com/r/MapPorn/] sayfasında Türkiye'nin bir haritasına denk geldim.
