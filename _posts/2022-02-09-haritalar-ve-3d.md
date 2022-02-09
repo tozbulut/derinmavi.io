@@ -23,4 +23,4 @@ Bu da onu güzel ama faydası sorgulanır bir hale getiriyor.
 
 Haritalar bir ülkeye ait verileri göstermekte de çok başarılı. 
 
-Bu şekilde en faydalısızından en faydalısına haritalar arasında gezerken insan görüyor ki haritalar bir konsepti ya da zamanı anlatmakta şaşırtıcı derecede başarılı. Algımızdaki boşta kalan noktaları güzel bir biçimde dolduruyorlar.
+İnsanoğlu son derece görsel bir varlık. Bu şekilde en faydalısızından en faydalısına haritalar arasında gezerken insan görüyor ki haritalar bir konsepti ya da zamanı anlatmakta şaşırtıcı derecede başarılı. Algımızdaki boşta kalan noktaları güzel bir biçimde dolduruyorlar.
