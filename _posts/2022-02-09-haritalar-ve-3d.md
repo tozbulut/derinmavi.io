@@ -1,4 +1,4 @@
-Bir süre önce internette birreddit sayfasında TÜrkiye'nin bir haritasına denk geldim.
+Bir süre önce internette birreddit sayfasında Türkiye'nin bir haritasına denk geldim.
 Haritada dikkatimi çeken Türkiye'nin ne kadar dağlık olduğuydu. 
 Türkiye'de genel olarak verilen eğitim değişse de standardımız biraz düşük.
 Belki de bu sebeple ortalama bir insan şaşırtabilecek çok bilgi var.
@@ -9,4 +9,5 @@ Ayrıca 3d print alınarak aşağıdaki gibi Çin'in bir modelini yapmışlar. O
 
 Örneğin istanbul'un böyle bir haritasını yapmak güzel olabilir.
 
-Verinin görselliği güzel ama faydalı mıdır?
+Bunun ciddi bir meslek dalı olduğu aşikar. Sanat ve bilimin birleştiği yerde duruyor. Ama özüne biraz mesafeli. Çünkü verinin görselleştirilmesi verinin kendisinden bağımsız.
+Bu da onu güzel ama faydası sorgulanır bir hale getiriyor.
