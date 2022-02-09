@@ -6,7 +6,7 @@ meta: "Springfield"
 img: https://derinmavi.io/images/path-to-ancient-thira-santorini.png
 ---
 
-"Kendinin efendisi olmayan kişi özgür değildir." Epiktetos'un bu sözü MS 125 yılında yazılmış Enchiridion adlı kitapta geçiyor. Peki bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Bu sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebiliriz sanıyorum. 
+"Kendinin efendisi olmayan kişi özgür değildir." Epiktetos'un bu sözü MS 125 yılında yazılmış Enchiridion adlı kitapta geçiyor. Peki kendimizin efendisi olmak da ne demek? Bu sözlere bugün ihtiyacımız var mı? Biz her şeyin anlık değiştiği bir dünyada yaşıyorken binlerce yıl önce ölmüş bir adamın mırıltılarından öğrenebileceğimiz ne olabilir? Sözlerin sahibi Epiktetos'un fikirlerin doğruluğu pek tabi sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçiren Stoa'cı filozofun kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini farz edebiliriz sanıyorum. 
 
 <img src="https://derinmavi.io/images/path-to-ancient-thira-santorini.png" alt="Greek Bust" class="img-fluid">
 
