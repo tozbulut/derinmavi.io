@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Stoa Düşüncesi"
-categories: junk
+title: "Stoa ve Stoacılık Düşüncesi"
+categories: Felsefe
 meta: "Springfield"
 img: https://derinmavi.io/images/path-to-ancient-thira-santorini.png
 ---
