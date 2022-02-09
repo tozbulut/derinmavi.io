@@ -20,3 +20,7 @@ Bunun ciddi bir meslek dalı olduğu aşikar. Sanat ve bilimin birleştiği yerd
 Bu da onu güzel ama faydası sorgulanır bir hale getiriyor.
 
 3D basımlarda genellikle .std uzantılı dosyalar kullanılıyor.
+
+Haritalar bir ülkeye ait verileri göstermekte de çok başarılı. 
+
+Bu şekilde en faydalısızından en faydalısına haritalar arasında gezerken insan görüyor ki haritalar bir konsepti ya da zamanı anlatmakta şaşırtıcı derecede başarılı. Algımızdaki boşta kalan noktaları güzel bir biçimde dolduruyorlar.
