@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Açık Alanda Bir Moğol Atlısı"
-categories: misc
+categories: sanat
 img : https://derinmavi.io/images/steh-auf.png
 ---
 Açık alanda bir moğol atlısı - tarihin büyük travması - hayatın akışının işlemeyene, tıkanmış olana getirdiği ferahlatıcı çözüm. 
