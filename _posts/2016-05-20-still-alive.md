@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Still Alive"
-categories: misc
+categories: art
 img : https://derinmavi.io/images/still-alive.png
 ---
 
