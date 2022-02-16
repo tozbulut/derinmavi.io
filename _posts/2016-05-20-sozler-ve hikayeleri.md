@@ -2,7 +2,7 @@
 layout: post
 title: "Sözler ve Hikayeleri"
 categories: art
-img2 : https://derinmavi.io/images/sozler_ve_hikayeleri.png
+img : https://derinmavi.io/images/sozler_ve_hikayeleri.png
 ---
 
 Alıntı, kısa slogan gibi kısa cümleler günümüzde son derece azaltılmış ve bir şekilde içi boşaltılmış olsa da alıntı yapmak aslında çok özel bir iş. İnsanlarda başka bir zamanı yansıtan bu kısa sözlerin gerçekten özel bir yeri var.
