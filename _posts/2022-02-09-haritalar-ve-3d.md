@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haritalar ve 3 Boyut"
-categories: misc
+categories: research
 img: https://derinmavi.io/images/harita1.jpg
 img2: https://derinmavi.io/images/harita3.jpg
 ---
