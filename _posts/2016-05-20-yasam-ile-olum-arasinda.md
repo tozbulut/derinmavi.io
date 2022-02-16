@@ -11,6 +11,10 @@ Lady Gaga'nın 911 adındaki klibi ilk bakışta anlaması zor olsa da ilgi çek
 
 <!--more-->
 
+Şarkının sözleri son yıllarda üzerinde durulan ruh sağlığına dikkat çekiyor. Fakat klip bir adım daha ileri giderek rüyaların işleyişinin ortaya çıktığı, insan beyninin hilelerinin teşhir edildiği alışılmadık kurgusuyla sanatsal çalışmayı tamamen başka bir boyuta taşımış.
+
+Klipte insanın esaslı mekanizmalarından birinin devreye girdiğini görüyoruz. Bu sofistike dev olay akışına senden yana müdahale ediyor. Yaşam ve ölüm arasındaki dramada devreye giren ve neredeyse ilahi bir gücü çağrıştıran aslında beynin hayatta kalma bilinci. Bir anlamda algıladığımız haliyle yaşamın kendisi.  
+
 Klipte The Cell, The Fall ve Immortals filmlerinin yönetmeni Tarsem Singh ile çalışılmış. Bu yönetmenin filmlerinde özellikle rüyalar üzerine bir yoğunlaşma var. 911'da benzer bir hikaye anlatıyor. Tarsem Singh'i biraz daha takip ettiğimde bugüne kadar yönetmenine dikkat etmeden seyrettiğim pek çok klip ve diziyi yönettiğini farkettim.
 
 Bunların arasında Singh'in yönettiği 2000 yapımı "The Cell" filmi oldukça ilginç. Henüz çocukken seyrettiğim bu film bana ürkütücü olmasının yanında son derece de ilgi çekici gelmişti. Bir seri katilin zihnine yapılan yolculuğu konu alan filmde yine rüyalar konu ediliyor. İronik biçimde hastalıklı kişi kendi dünyası olan zihninin içinde bir çarpık bir krallığı yöneten monark olarak tasvir ediliyor. Ama zihninin içerisinde tek değil burada kendi çocukluğu odalarda korka korka geziniyor. Seri katil olan kendi var. Bir de güçlü baskın monark hali var. Sahnelerin her biri olayların işleyişi tıpkı 911 klibindeki gibi rüyalara özgü özellikleri barındırıyor. Filmin uzun süre etkisinde kaldığımı söylemeliyim. Atmosferi bugün bile ilgi uyandırıyor.
