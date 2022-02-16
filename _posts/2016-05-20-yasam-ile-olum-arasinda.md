@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yaşamla Ölüm Arasında Rüya Görmek"
-categories: misc
+categories: art
 img: https://derinmavi.io/images/lady-gaga-911.jpg
 ---
 
