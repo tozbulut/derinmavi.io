@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Açık Alanda Bir Moğol Atlısı"
-categories: sanat
+categories: art
 img : https://derinmavi.io/images/steh-auf.png
 ---
 
