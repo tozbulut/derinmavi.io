@@ -3,9 +3,11 @@ layout: post
 title: "Sözler ve Hikayeleri"
 categories: junk
 meta: "Springfield"
+img : https://derinmavi.io/images/still-alive.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+Alıntı, kısa slogan gibi kısa cümleler günümüzde son derece azaltılmış ve bir şekilde içi boşaltılmış olsa da alıntı yapmak aslında çok özel bir iş. İnsanlarda başka bir zamanı yansıtan bu kısa sözlerin gerçekten özel bir yeri var.
 
 ### 1. Birisi kültürden bahsedecek olursa silahımın emniyetini açarım.
 
