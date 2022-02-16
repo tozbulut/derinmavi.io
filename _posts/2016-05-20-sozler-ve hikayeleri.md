@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sözler ve Hikayeleri"
-categories: main
+categories: art
 img2 : https://derinmavi.io/images/sozler_ve_hikayeleri.png
 ---
 
