@@ -4,18 +4,21 @@ title: Filmler
 permalink: /filmler/
 ---
 
-#### Movies
+#### To Watch
 *	Us
 *	Sound Of Music
 *	The Weeping Meadow
 *	Saint Maud (2019)
+*	The Holy Mountain (1973)
 
+#### Watched
+* Margin Call 20.02.2022
 
 #### Directors
 
 * Federico Fellini
 * Theo Angelopoulos
-
+* Alejandro Jodorowsky
 
 #### Stack
 * Imprint
