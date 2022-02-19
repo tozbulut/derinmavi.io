@@ -25,6 +25,7 @@ permalink: /kitaplar/
 * Gustave Flaubert
 * James Joyce
 * Marcel Proust
+* Kazuo Ishiguro
 
 
 #### Turkish Writer
