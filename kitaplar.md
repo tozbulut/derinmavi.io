@@ -4,28 +4,44 @@ title: Kitaplar
 permalink: /kitaplar/
 ---
 
+#### Currently Reading
+
+* Sineklerin Tanrısı - 20.02.2022
+
+### Want To Read
+* Capital in the Twenty-First Century - Thomas Piketty
+
 #### Novel, Biography
 
-1) Viktor Frankl - İnsanın Anlam Arayışı
-2) Thomas Mann - Büyülü Dağ
-3) Thomas Mann - Dr. Faustus
-4) Orhan Pamuk
-5) Abdullah Efendinin Rüyaları - Ahmet Hamdi Tanpınar
-6) Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar
-7) Charles Baudelaire
-8) Gustave Flaubert
-9) James Joyce
-10) Marcel Proust
-11) Thomas Mann - Death in Venice (1912)
-12) Yahya Kemal Beyatlı
-13) Huzur
+* Viktor Frankl - İnsanın Anlam Arayışı
+* Thomas Mann - Büyülü Dağ
+* Thomas Mann - Dr. Faustus
+* Thomas Mann - Death in Venice (1912)
+
+
+#### Writer
+
+* Charles Baudelaire
+* Gustave Flaubert
+* James Joyce
+* Marcel Proust
+
+
+#### Turkish Writer
+* Yahya Kemal Beyatlı
+* Orhan Pamuk
+
+#### Turkish Book
+* Abdullah Efendinin Rüyaları - Ahmet Hamdi Tanpınar
+* Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar
+* Huzur
 
 #### Psychology
 
-1) B.F. Skinner
-2) Sigmund Freud
+* B.F. Skinner
+* Sigmund Freud
 
 #### Philosophy
 
-1) Epictetus
-2) Arthur Schopenhauer
+* Epictetus
+* Arthur Schopenhauer
