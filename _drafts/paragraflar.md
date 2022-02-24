@@ -3,6 +3,7 @@ Aksi halde ilüzyona kapılabilir. İlüzyon içerisinde yaşayan bir insanın b
 Esas amaç bu değerlerin düzenli olarak yükseltilmesidir. Değerlerin tanımı her insan için kesindir. Genel başarı tanımı kişiden kişiye büyük farklılık göstermez.
 Bunu aksiyle ispat etmek daha kolaydır. Başarısızlık olarak tanımlanabilecek durumlar belirlidir.
 
+İnsanın istenci de henüz olmamış olduğundan gerçek değildir yani o da bir ilüzyondur. Fakat insan bu ideal durumu gerçekle uzlaştırır, onu gerçekle etkileşim haline sokar. Bunu yaparken doğası gereği duygusal bir itici güce ihtiyaç duysa da aslında pek tabi rasyonel olarak da ilerleyebilir. Fakat bu yalnızca ana prensiplerin belirlenmesi ile mümkün olur.
 
 Sağlıklı bir insan olmanın şartları bellidir. Kimse kesik bir parmağın ya da karaciğer rahatsızlığının sağlıklı olduğunu iddia edemez. 
 Hastalığa neden olan şartları bulmak ve uygun reçeteyi kendimiz yazmak zorundayız. 
