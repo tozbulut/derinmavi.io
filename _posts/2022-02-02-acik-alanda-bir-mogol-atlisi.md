@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Mongolian Rider On An Open Field"
+title: "Mongolian On An Open Field"
 categories: art
 img : https://derinmavi.io/images/steh-auf.png
 ---
 
 Till Lindemann, a member of the Rammstein music group has a side project called Lindemann, which he founded in collaboration with Peter Tägtgren. Steh Auf is one of the most successful tracks on the band’s F&M album in 2019. The song has a striking clip. Steh Auf means wake up. Although the lyrics of the song are written as the son of a drug-addicted mother calling out to her, the song in contrast extremely lively for the listener. The director of the clip, Zoran Bihać, used a different image for the clip.
 
-In Lindemann Steh Auf's clip taken from a dream sequence, as the audience, we see this whole situation through the eyes of the lethargic and blocked. Wake up! The sleep, the state of heedlessness that the song cries out, is described as a psychological blur. The grotesque appearances of actors Peter Stormare and Till Lindemann make it difficult for the audience to empathize, while their shabby, unimportant situation creates a tragicomic atmosphere. When an Asian woman on a horse breaks down the wall and kidnaps Lindemann after drug use and mental problems, it makes the story funnier and even more dramatic by ending the suffering of the character in an alienated way. Reminiscent of China, in tune with the danger from the east, the attack of three white men by an Asian woman blends concerning the spirit of our time.
+In Lindemann's Steh Auf, clip looks like it has been taken from a dream sequence. As the audience, we see this whole situation through the eyes of the lethargic and blocked. Wake up! The sleep, the state of heedlessness that the song cries out, is described as a psychological blur. The grotesque appearances of actors Peter Stormare and Till Lindemann make it difficult for the audience to empathize, while their shabby, unimportant situation creates a tragicomic atmosphere. When an Asian woman on a horse breaks down the wall and kidnaps Lindemann after drug use and mental problems, it makes the story funnier and even more dramatic by ending the suffering of the character in an alienated way. Reminiscent of China, in tune with the danger from the east, the attack of three white men by an Asian woman blends concerning the spirit of our time.
 
 ### Conqueror of the Steps
 
