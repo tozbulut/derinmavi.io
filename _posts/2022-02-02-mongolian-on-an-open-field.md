@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mongolian On An Open Field"
+title: "Mongolian Rider On An Open Field"
 categories: art
 img : https://derinmavi.io/images/steh-auf.png
 ---
