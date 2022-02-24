@@ -26,9 +26,10 @@ layout: default2
         <div class="card" style="width: 23.75rem; margin-right: 1.2rem; margin-bottom: 1rem;">
   {%- if post.img -%}<a href="{{ post.url | relative_url }}" ><img src="{{ post.img }}" class="card-img-top" style="height: 270.5px; width: 378px;" alt="{{ post.title | escape }}"></a>{%- endif -%}
   <div class="card-body">
+    <div class="cb_card">Aslen</div>
     <h5 class="card-title" style=" letter-spacing: -1px; font-size: 24px; line-height: 1.3; font-weight: 700; ">{{ post.title | escape }}</h5>
     {%- if site.excerpts.show -%}<p class="card-text">{{ post.excerpt | truncatewords:20 }}</p><div class="cb_card">{{ post.date | date: date_format }}</div>{%- endif -%}
-    <a href="{{ post.url | relative_url }}" class="btn btn-light" style="font-size: 13px; font-weight: bold; color: #1495a7;">Devamını Oku...</a>
+    <div><a href="{{ post.url | relative_url }}" class="btn btn-light" style="font-size: 13px; font-weight: bold; color: #1495a7;">Devamını Oku...</a></div>
   </div>
       </div>
     </div>
