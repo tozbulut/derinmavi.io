@@ -14,7 +14,7 @@ Haritada dikkatimi çeken Türkiye'nin ne kadar dağlık olduğuydu. Hepimiz oku
 
 <img src="https://derinmavi.io/images/harita2.jpg" alt="" class="img-fluid">
 
-Coğrafyadan bahsetmişken 3d print alınarak aşağıdaki gibi Çin'in bir modelini yapmışlar. Aslında oldukça hoş bir obje. Örneğin istanbul'un böyle bir haritasını yapmak güzel olabilir.
+Coğrafyadan bahsetmişken 3d print alınarak aşağıdaki gibi Çin'in bir modelini yapmışlar. Aslında oldukça hoş bir obje. Örneğin istanbul'un böyle bir haritasını yapmak güzel olabilir. 3D printerlar da son dönemde üzerinde büyük bir hype olan basit bir algılamadan uzaklaşmış görünüyor.
 
 Haritacılık bir yandan ciddi bir disiplin. Öte yandan veri gösterleştirmeyle birleştiği yerde sanat ve bilimin birleştiği yerde duruyor. Tabi görselliğe fazla kanmamak gerek. Çünkü verinin görselleştirilmesi verinin kendisinden bağımsız. Tıpkı güzel arayüzün kullanışlılıkla pek ilgisinin olmaması gibi. Bu da onu güzel ama faydası sorgulanır bir hale getiriyor.
 
