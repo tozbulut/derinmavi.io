@@ -12,10 +12,9 @@ Oyun severleri arasında büyük beğeniyle karşılanan ve bir marşa dönüşe
 
 <!--more-->
 
-Şarkının yazarı Jonathan Coulton GladOS'un pasif agresif ruh halini vokalin robotik tonuyla yansıtmayı seçmiş. İçerisinde hem erdem hem de kusur barındıran bir robot absürt bir yorumlama. Bu tuhaf yolculukta kurgusal yapay zekanın yenilmiş haliyle bile koruduğu iyimserliğini, zekasını, çalışkanlığını, espri anlayışını, bilime olan tutkusunu, öte yandan GladOS'un karanlık yanını şarkının içinde nöbetler halinde gelen karanlık yanını görüyoruz.
+Şarkının yazarı Jonathan Coulton GladOS'un pasif agresif ruh halini vokalin robotik tonuyla yansıtmayı seçmiş. İçerisinde duygu barındıran bir robot absürt bir yorumlama. Bu tuhaf yolculukta kurgusal yapay zekanın yenilmiş haliyle bile koruduğu iyimserliğini, zekasını, çalışkanlığını, espri anlayışını, bilime olan tutkusunu, öte yandan GladOS'un karanlık yanını şarkının içinde nöbetler halinde gelen karanlık yanını görüyoruz.
 
-Şarkının ismi Still Alive hala hayata olmak anlamına geliyor. GladOS hezimetinden sonra ölmediğini bu şekilde belirten bu isim ekrandaki görüntüde yer almıyor. Onun yerine
-`Forms FORM-29827281-12:` yazısını görüyoruz. Altında `Test Assesment Report` yazıyor. Bunun GladOS'un tutmuş olduğu bir rapor olarak yazıldığını görüyoruz.
+Şarkının ismi Still Alive hala hayata olmak anlamına geliyor. GladOS hezimetinden sonra ölmediğini bu şekilde belirten bu isim ekrandaki görüntüde yer almıyor. Onun yerine `Forms FORM-29827281-12:` yazısını görülmekte. Altında `Test Assesment Report` yazıyor. Demek ki bu GladOS'un tutmuş olduğu bir rapor olarak yazılıyor.
 
 GladOS'un "Test Değerlendirme Raporu" na yazdığı duygu barındıran sözler. Bir yanda insanın ya da duygusal olan herşeyin doğanın katı gerçekliği karşısındaki yabancılığını gösteriyor. Portal lore'unun izini sürmeye devam edecek olursak GladOS Portal oyununa konu olan silahı test ediyor. Portal silahının özelliği iki konum arasına portal açabilmesi.
 
@@ -26,8 +25,7 @@ It's hard to overstate // Abartmış olmak zor.
 My satisfaction // Tatminimi
 ```
 
-Oyun bittiğinde yeniden GladOS'u duymak ilginç çünkü oyun boyunca mücadele edilen karakterin yokolmadığını görüyoruz. Çelişkisel olarak yenilmiş olmasını başarı olarak tanımlıyor. Sürecin tamamından duyduğu tatmini dile getiriyor.
-
+Oyun bittiğinde yeniden GladOS'u duymak ilginç çünkü oyun boyunca mücadele edilen düşmanın yok olmadığını görüyoruz. Çelişkisel olarak yenilmiş olmasını başarı olarak tanımlıyor. Sürecin tamamından duyduğu tatmini dile getiriyor.
 
 ```
 Aperture Science:  // Aperture bilim
@@ -37,8 +35,7 @@ For the good of all of us // Hepimizin iyiliği için.
 Except the ones who are dead // Ölmüş olanlar hariç.
 ```
 
-GladOS kurgusal şirketin sloganını tekrarlayarak başlıyor. Aperture Science, Portal evreninde Portal silahını yapmak için GladOS'u inşa eden araştırma tesisi.
-Slogan sözler yapmamız gerekeni yapmalıyız çünkü yapabiliriz. Bu herkesin iyiliği için yapılıyor ama ölenler hariç. Belli ki GladOS burada Portal silahının araştırmasında denek olarak kullanılan diğer insanları kastediyor. İronik biçimde iyilik sloganları ile yapılan araştırmasında insanlar ölümcül deneylerde denek olarak kullanılıyor.
+GladOS kurgusal şirketin sloganını tekrarlayarak başlıyor. Aperture Science, yapmamız gerekeni yapmalıyız, çünkü yapabiliriz. Portal evreninde Portal silahını yapmak için GladOS'u inşa eden araştırma tesisi. Bu herkesin iyiliği için yapılıyor ama ölenler hariç. Belli ki GladOS burada Portal silahının araştırmasında denek olarak kullanılan diğer insanları kastediyor. İronik biçimde iyilik sloganları ile yapılan araştırmasında insanlar ölümcül deneylerde denek olarak kullanılıyor.
 
 ```
 But there's no sense crying // Fakat ağlamanın bir anlamı yok
@@ -51,9 +48,9 @@ For the people who are // İnsanlar için
 Still alive // Hala hayatta olan
 ```
 
-Burada GladOS'un üzücü olduğunu düşünüyor fakat her bir hatanın üzerinde ağlamaya gerek yok diyerek okuyucuya kendi değerini gösteriyor. Sen kekin bitene kadar denemeye devam et diyor. Burada aslında felsefik ahlaki bir duruş görüyoruz. Sen yaşam enerjin (kekin) bitene kadar mücadele etmelisin. Burada da yine bir ikilem var çünkü bir yandan ahlaki bir çıkış yaparken bir yandan da süreci aklamaya çalıştığını görüyoruz. Bu da aslında varoluşsal kabullenişe değiniyor. Ölümlü de olsan her şey geçici de olsa çabalamalısın.
+Burada GladOS'un üzücü olduğunu düşünüyor fakat her bir hatanın üzerinde ağlamaya gerek yok diyerek okuyucuya kendi değerini gösteriyor. Sen kekin bitene kadar denemeye devam et diyor. Sen yaşam enerjin (kekin) bitene kadar mücadele etmelisin. Burada da yine bir ikilem var çünkü bir yandan ahlaki bir çıkış yaparken bir yandan da süreci aklamaya çalıştığını görüyoruz. Bu da aslında varoluşsal kabullenişe değiniyor. Ölümlü de olsan her şey geçici de olsa çabalamalısın.
 
-Cake Is A Lie : GladOS Portal silahını geliştirken oyunculara kek vaad eder. Oyun esnasında vadedilen kekin olmadığı muhtemelen ölmüş önceki denekler tarafından duvarlara yazılmıştır.
+Cake Is A Lie aynı eserden çıkan bir diğer slogan. Hİkayesi şöyle GladOS Portal silahını geliştirken oyunculara kek vaad eder. Oyun esnasında vadedilen kekin olmadığı muhtemelen ölmüş önceki denekler tarafından duvarlara yazılmıştır.
 
 ```
 I'm not even angry // Kızgın bile değilim.
